@@ -41,3 +41,74 @@
 .list {
     padding: 15px;
 }
+.autor {
+    font-size: 12px;
+}
+
+.row {
+    width: 100%;
+}
+
+.element {
+    display: inline-block;
+    width: 33.33333%;
+    float: left;
+    color: white;
+    background: cornflowerblue;
+}
+
+.element1 { 
+    display: inline-block;
+    width: 33.33333%;
+    float: left;
+    background: lightskyblue;
+    height: 60px;
+    line-height: 60px;
+}
+
+
+.element2 { 
+    display: inline-block;
+    width: 33.33333%;
+    float: left;
+    background: lightskyblue;
+    height: 60px;
+}
+
+.element1a {
+    display: inline-block;
+    width: 33.33333%;
+    float: left;
+    background: white;
+    height: 60px;
+    line-height: 60px;
+}
+
+.element2a { display: inline-block;
+    width: 33.33333%;
+    float: left;
+    background:white;
+    height: 60px;
+}
+
+.text {
+    padding-top: 35px; 
+    clear: both;
+}
+
+.information {
+    color: gray;
+    padding-top: 35px;
+}
+
+.foto1 {
+    position: relative;
+    color: white;
+}
+
+.top_center {
+    position: absolute;
+    top: 8px;
+    left: 20px;
+    font-size: 20px;
+}
