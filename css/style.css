@@ -1,3 +1,6 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 .banner {
     background-image: url(../img/pattern.png);
     background-color: cornflowerblue;
@@ -25,4 +28,16 @@
 
 .booleaner {
     color: cornflowerblue;
+}
+
+.conteiner {
+    display: inline;
+}
+
+.important {
+    background: yellow;
+}
+
+.list {
+    padding: 15px;
 }
